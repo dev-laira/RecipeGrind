@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="RecipeGrind.API/RecipeGrind.API.csproj" />
+  <Project Path="RecipeGrind.Application/RecipeGrind.Application.csproj" />
+  <Project Path="RecipeGrind.Contracts/RecipeGrind.Contracts.csproj" />
+</Solution>
